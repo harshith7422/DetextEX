@@ -70,7 +70,10 @@ streamlit run main.py
 ## Developers
 
 Harshith YVS, Deeksha R
+
 Final Year, VIT
+
 Capstone Project - April 2025
+
 Contact: <harshithyvs@email.com> , <deekshar2431@gmail.com>
 
