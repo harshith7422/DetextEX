@@ -1,4 +1,4 @@
-# 🛡️ DetectEx – AI-Powered Online Exam Proctoring System
+# 🛡️ DetectEx – Python based Online Exam Proctoring System
 
 DetectEx is an intelligent, lightweight online examination platform integrated with a real-time proctoring system that uses computer vision to detect suspicious behaviors during test attempts. It ensures academic integrity by logging violations and providing admin tools for monitoring and evaluation.
 
